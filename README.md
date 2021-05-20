@@ -6,6 +6,7 @@
 * [Objetive](#section1)
 * [Processes](#section2)
 * [Conclusions](#section3)
+* [Tableau](#section4)
 
 <a id='section1'></a>
 ### Objective
@@ -35,6 +36,9 @@ China, the USA, and Russia are the biggest CO2 emitters in the last years, India
 European and American emissions decreased since 2008, due to the economical crisis. The global recession and high oil prices played a major role in reducing them. Comparing Europe and America, Europe has achieved better decreasing rates in the last years, although still quite far from the targets. Even though the GDP is directly correlated with the CO2 emissions, only some European countries have achieved increasing economic growth and a CO2 emissions reduction in the last decade, so there is still a long way to go. The share of renewable energy is increasing slowly in the last decades in European countries.
 
 
+<a id='section4'></a>
+### Tableau
 
+[Link to Tableau visualizations](https://public.tableau.com/profile/marian.moreno#!/vizhome/book-emissions/final-project)
 
 
