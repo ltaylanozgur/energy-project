@@ -31,6 +31,9 @@ The datasets were analyzed with Python using the libraries: Pandas, Matplotlib a
 <a id='section3'></a>
 ### Conclusions
 
+China, the USA, and Russia are the biggest CO2 emitters in the last years, India and China's emissions grew dramatically since 1995. However, as these are the most populated countries in the world, is highly recommended to analyze the CO2 per capita, where Qatar, United Arab Emirates, and Luxemburg are on top. This is mainly due to the consumption of fossil fuels.
+European and American emissions decreased since 2008, due to the economical crisis. The global recession and high oil prices played a major role in reducing them. Comparing Europe and America, Europe has achieved better decreasing rates in the last years, although still quite far from the targets. Even though the GDP is directly correlated with the CO2 emissions, only some European countries have achieved increasing economic growth and a CO2 emissions reduction in the last decade, so there is still a long way to go. The share of renewable energy is increasing slowly in the last decades in European countries.
+
 
 
 
