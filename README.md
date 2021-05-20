@@ -1,7 +1,6 @@
 # Final Project Ironhack 
 
 ![header.jpeg](images/header.jpeg)
-Colaborators [Marian Moreno](https://github.com/marimor62) and [Antonio Saleme](https://github.com/antonio-datahack)
 
 ### Index:
 
