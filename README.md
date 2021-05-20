@@ -5,7 +5,6 @@
 
 * [Objetive](#section1)
 * [Processes](#section2)
-* [Tableau](https://github.com/marimor62/Midtermproject-Housing/tree/main/Tableau)
 * [Conclusions](#section3)
 
 <a id='section1'></a>
@@ -29,23 +28,10 @@ The datasets were analyzed with Python using the libraries: Pandas, Matplotlib a
 ![flow](https://github.com/marimor62/energy-project/blob/main/images/flow.png)
                                 
                                 
-  ### In-Depth Analysis
-
-* We proceeded to realize the first iteration of our Machine Learning Model,
-and our accuracy score R2 was relatively close to 1, so the model performs well, but we wanted to improved it.
-<img src="images/r1.png"/>
-* In the second iteration we did a preprocessing: We went through the standardization using StandardScaler to rescale and OneHotEncoder to process the categoricals. We got a better R2:
-<img src="images/r2.png"/>
-* We went through a third iteration, this time we did a rescale using the logarithmic method and we normalized the data using the Dummies Encoder
-<img src="images/r3.png"/>
+<a id='section3'></a>
+### Conclusions
 
 
-<a id='section6'></a>
-### Tableau
-[Link to tableau story](https://public.tableau.com/profile/marian.moreno#!/vizhome/Book1_16190202108450/Story1)
 
-* Our assignment also included visualization with Tableau. We aimed to visualize our findings in a way that a non-technical audience would understand while maintaning a style that is both pleasing and unequivocal.
-
-<img src="images/tableau1.png"/>
 
 
