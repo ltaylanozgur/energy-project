@@ -22,7 +22,7 @@ The idea came up as a result of the increasing concern about climate change and 
 <a id='section2'></a>
 ### Processes
 
-In order to answer these questions, two datasets were analyzed: one related to the CO2 emissions ![data 1](https://github.com/marimor62/energy-project/blob/main/datasets/owid-co2-data.xlsx), GDP and population per country and a second one about the energy consumption per country and energy source. 
+In order to answer these questions, two datasets were analyzed: one related to the CO2 emissions [data 1](https://github.com/marimor62/energy-project/blob/main/datasets/owid-co2-data.xlsx), GDP and population per country and a second one about the energy consumption per country and energy source. 
 The dataset we used consists of information on 22,000 properties and contains historic data of houses sold between May 2014 to May 2015.
 Our first approach consisted of:
                                 * Importing the data
