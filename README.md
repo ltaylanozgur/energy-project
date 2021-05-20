@@ -23,13 +23,10 @@ The idea came up as a result of the increasing concern about climate change and 
 ### Processes
 
 In order to answer these questions, two datasets were analyzed: [data 1](https://github.com/marimor62/energy-project/blob/main/datasets/owid-co2-data.xlsx) one related to the CO2 emissions, GDP and population per country and a second one about the energy consumption per country and energy source [data 2](https://github.com/marimor62/energy-project/blob/main/datasets/energy-consumption-by-source-and-region.csv.xlsx). Both datasets were extracted from the web [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)
-The datasets contain historical data of emissions and energy consumption for each country. The columns of each datasets are explained in more detail in each [Notebook](https://github.com/marimor62/energy-project/tree/main/python).
-Our first approach consisted of:
-                                * Importing the data
-                                * Exploring the data (EDA Method)
-                                * Data wrangling
-                                * Data cleaning
-                                * Check for multicolinearity
+The datasets contain historical data of emissions and energy consumption for each country. The columns of each dataset are explained in more detail in each [Notebook](https://github.com/marimor62/energy-project/tree/main/python).
+
+The datasets were analyzed with Python using the libraries: Pandas, Matplotlib and Seaborn. A k-Means model was applied to cluster the countries regarding some parameters directly related to the CO2 emissions, using the Scikit Learn library. A further analysis and visualization was done with Tableau. The processes completed are collected in the scheme below:
+[flow](https://github.com/marimor62/energy-project/blob/main/images/flow.png)
                                 
                                 
   ### In-Depth Analysis
