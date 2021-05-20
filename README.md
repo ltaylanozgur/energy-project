@@ -1,5 +1,5 @@
 # Final Project Ironhack 
-![pic](https://github.com/marimor62/energy-project/blob/main/images/header.jpg)
+![pic](https://github.com/marimor62/energy-project/blob/main/images/header.png)
 
 ### Table of contents:
 
