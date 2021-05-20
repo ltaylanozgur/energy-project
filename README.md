@@ -11,8 +11,8 @@
 <a id='section1'></a>
 ### Objective
 
-The objective is to carry out a detailed analysis of the carbon dioxide emissions and energy consumption per country, analysing trends, commonalities and the influence of different features. 
-The idea came up as a result of the increasing concern about climate change and the Paris Agreement targets, which almost all the countries signed in 2016. Regarding these targets, some questions were presented:
+The objective is to carry out a detailed analysis of the carbon dioxide emissions and energy consumption per country, analyzing trends, commonalities, and the influence of different features. 
+The idea came up as a result of the increasing concern about climate change and the Paris Agreement targets, which almost all the countries signed in 2016 to tackle climate change. The main goal of this agreement is to reduce the global greenhouse gas emissions and limit the temperature to below 2 degrees. Regarding these targets, some questions were presented:
 * Are the European countries leading the CO2 emissions reduction in the last 20 years?
 * Are global economic powers more efficient in CO2 emissions reduction?
 * Is the share of renewable energy within the energy mix increasing in the last years?
@@ -22,6 +22,7 @@ The idea came up as a result of the increasing concern about climate change and 
 <a id='section2'></a>
 ### Processes
 
+In order to answer these questions, two datasets were analyzed: one related to the CO2 emissions ![data 1](https://github.com/marimor62/energy-project/blob/main/datasets/owid-co2-data.xlsx), GDP and population per country and a second one about the energy consumption per country and energy source. 
 The dataset we used consists of information on 22,000 properties and contains historic data of houses sold between May 2014 to May 2015.
 Our first approach consisted of:
                                 * Importing the data
