@@ -22,8 +22,8 @@ The idea came up as a result of the increasing concern about climate change and 
 <a id='section2'></a>
 ### Processes
 
-In order to answer these questions, two datasets were analyzed: one related to the CO2 emissions [data 1](https://github.com/marimor62/energy-project/blob/main/datasets/owid-co2-data.xlsx), GDP and population per country and a second one about the energy consumption per country and energy source. 
-The dataset we used consists of information on 22,000 properties and contains historic data of houses sold between May 2014 to May 2015.
+In order to answer these questions, two datasets were analyzed: [data 1](https://github.com/marimor62/energy-project/blob/main/datasets/owid-co2-data.xlsx) one related to the CO2 emissions, GDP and population per country and a second one about the energy consumption per country and energy source [data 2](https://github.com/marimor62/energy-project/blob/main/datasets/energy-consumption-by-source-and-region.csv.xlsx). Both datasets were extracted from the web [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)
+The datasets contain historical data of emissions and energy consumption for each country. The columns of each datasets are explained in more detail in each [Notebook](https://github.com/marimor62/energy-project/tree/main/python).
 Our first approach consisted of:
                                 * Importing the data
                                 * Exploring the data (EDA Method)
