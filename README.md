@@ -1,18 +1,12 @@
 # Final Project Ironhack 
+![pic](https://github.com/marimor62/energy-project/blob/main/images/header.jpg)
 
-![header.jpeg](images/header.jpeg)
+### Table of contents:
 
-### Index:
-
-* [Scenario](#section1)
-* [Objetive](#section2)
-* [Approach](#section3)
-* [First ideas](#section4)
-* [In-Depth Analysis](#section5)
-* [Conclusions](#section6)
+* [Objetive](#section1)
+* [Processes](#section2)
 * [Tableau](https://github.com/marimor62/Midtermproject-Housing/tree/main/Tableau)
-* [SQL](https://github.com/marimor62/Midtermproject-Housing/tree/main/SQL)
-
+* [Conclusions](#section3)
 
 <a id='section1'></a>
 ### Scenario
